@@ -26,6 +26,9 @@ A mobile app with user authentication and data management.
 🔹 [EventProjectBackend](https://github.com/atakanotur/EventProjectBackend)  
 The backend API built with .NET for the EventProject.
 
+🔹 [NewExpoAppGenerator](https://github.com/atakanotur/new-expo-app-generator))  
+Expo + TypeScript Starter Template.
+
 ---
 
 💡 I use GitHub to actively showcase my projects and share my development journey.
@@ -58,6 +61,9 @@ Kullanıcı girişi ve veri yönetimi olan mobil uygulama.
 
 🔹 [EventProjectBackend](https://github.com/atakanotur/EventProjectBackend)  
 EventProject için .NET ile geliştirdiğim backend API.
+
+🔹 [NewExpoAppGenerator](https://github.com/atakanotur/new-expo-app-generator))  
+Expo + TypeScript Başlangıç Şablonu.
 
 ---
 
